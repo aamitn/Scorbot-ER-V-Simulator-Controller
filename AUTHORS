@@ -1,0 +1,42 @@
++--------------------------------------+---------------------------------------+
+|                                    ABOUT                                     |
++------------------------------------------------------------------------------+
+
+This file contains the list of people involved in the development of
+Matlab toolbox for simulation and control of the Scorbot ER-V, which was started 
+by Dr. Juan-Antonio Fernández-Madrigal
+at the University of Malaga <http://babel.isa.uma.es/jafma>
+
+
+If you feel someone is missing, please fork and pull-request.
+The following list is roughly sorted in reverse cronological order.
+
+
+
+
+
++--------------------------------------+---------------------------------------+
+|                          DEVELOPERS & CONTRIBUTORS                           |
++------------------------------------------------------------------------------+
+
+*	Dr. Juan-Antonio Fernández-Madrigal
+	jafma@ctima.uma.es, http://babel.isa.uma.es/jafma
+	main developer
+
+* 	D. Andrés Galeote-Luque
+	MSc student in Mechatronics Engineering, academic year 16/17
+	diverse contributions
+
+
++--------------------------------------+---------------------------------------+
+|                                    OTHERS                                    |
++------------------------------------------------------------------------------+
+
+Bug reports and new feature suggestions, provided by users world-wide, 
+will usually be mentioned in the changelogs.
+ 
+We kindly thank all of them for this valuable feedback.
+
+
+
+                              --- END OF FILE ---
